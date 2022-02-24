@@ -49,15 +49,13 @@ python make_backup.py
 
 5. Enter your GitHub credentials
 
-```
-Enter your GitHub username: USERNAME
-Enter your GitHub password or personal access token: PASSWORD_OR_PERSONAL_ACCESS_TOKEN
-```
+> Enter your GitHub username: USERNAME
+>
+> Enter your GitHub password or personal access token: PASSWORD_OR_PERSONAL_ACCESS_TOKEN
 
-6. Clone repositories:
+6. Script will show you a list of repositories. Clone them:
 
-```
-Do you want to clone all these repositories? (Y/N): y
-```
+> Do you want to clone all these repositories? (Y/N): y
 
-> Done
+
+Done.
